@@ -1,3 +1,3 @@
 console.log(
-  "gitHub에서 clone, commit, remote, init, push, branch, fork, fetch, merge 를 연습하고 있습니다"
+  "여러번 커밋 후 푸쉬하면 어떻게 되나 ?_1"
 );
